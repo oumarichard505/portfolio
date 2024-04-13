@@ -3,7 +3,7 @@ import img from "./img/hero_img.jpg"
 function HeroSection(){
     return(
       <section id="hero--section" className="hero--section">
-        <div className="hero--section-content--box">
+        <div className="hero--section--content--box">
             <div className="hero--section--content">
                 <p className="hero--section--title">
                      Hello, I am Richard Ouma
@@ -22,7 +22,7 @@ function HeroSection(){
             <button className="btn btn-primary">Get in touch</button>
         </div>
 
-        <div className="her--section--img">
+        <div className="hero--section--img">
             <img src="./img/hero_img.jpg" alt="" />
         </div>
       </section>
