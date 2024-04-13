@@ -208,11 +208,19 @@ align-self: stretch;
   line-height: 36px;
 }
 
-.hero--section--img{
+
+.hero--section--img {
   display: flex;
-  width: 200px; 
-  height: 250px; 
-  overflow:hidden;
-  border-radius:0%;
+
 
 }
+.hero--section--img > img{
+  display: flex;
+  width: 250px; 
+  height: 250px; 
+  overflow:hidden;
+  border-radius:10%;
+
+}
+
+/* Hero section style */
