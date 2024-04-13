@@ -1,12 +1,11 @@
 import './App.css';
+import HeroSection from './Pages/Home/HeroSection';
 
 function App() {
-  return (<div>
-    <h3>
-      Hello World
-    </h3>
-  </div>
-  
+  return (
+  <>
+  <HeroSection/>
+  </>
   );
 }
 
