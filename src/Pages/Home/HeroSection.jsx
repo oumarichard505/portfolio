@@ -1,3 +1,5 @@
+import img from "./img/hero_img.jpg"
+
 function HeroSection(){
     return(
       <section id="hero--section" className="hero--section">
@@ -21,7 +23,7 @@ function HeroSection(){
         </div>
 
         <div className="her--section--img">
-            <img src="" alt="profile_photo" />
+            <img src="./img/hero_img.jpg" alt="" />
         </div>
       </section>
     );
