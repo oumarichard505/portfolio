@@ -14,8 +14,10 @@ function MySkills() {
                         <div className="skills--section--img">
                             <img src={item.src} alt={item.title} />
                         </div>
-                        <h3>{item.title}</h3>
-                        <p>{item.description}</p>
+                      <div className="skills--section--card--content">
+                        <h3 className="skills--section--title">{item.title}</h3>
+                        <p className="skills--section--description">{item.description}</p>
+                      </div>
                     </div>
                 ))}
             </div>
