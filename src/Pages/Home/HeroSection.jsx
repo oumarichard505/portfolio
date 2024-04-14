@@ -13,15 +13,15 @@ function HeroSection(){
                         <br /> Developer
                      </h1>
                      <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias,
-                         ab dignissimos sapiente culpa commodi vitae temporibus 
-                        quibusdam laboriosam, tempore voluptatibus dicta veniam accusamus
-                         facilis sed tempora aut modi ullam inventore.
+                        Lorem ipsum dolor sit amet consectetur<br/> adipisicing elit. Molestias,
+                         ab dignissimos sapiente culpa commodi vitae temporibus<br/> 
+                        quibusdam laboriosam, <br/>tempore voluptatibus dicta veniam accusamus
+                         facilis sed <br/>tempora aut modi ullam inventore.
                         <br />
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                         Qui et quia corporis vel esse molestias laborum velit deleniti 
-                         reiciendis odit quisquam recusandae, ad eum officia.
-                          Earum nemo aspernatur sit possimus!
+                        Lorem ipsum dolor sit amet<br/> consectetur adipisicing elit.
+                         Qui et quia corporis vel <br/>esse molestias laborum velit deleniti 
+                         reiciendis odit quisquam<br/> recusandae, ad eum officia.
+                         <br/>Earum nemo aspernatur sit possimus!
                      </p>
 
             </div>
