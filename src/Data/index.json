@@ -3,32 +3,27 @@
         {
             "id": "1",
             "title": "Front-end",
-            "src": "./img/feather-pen-1.png",
+            "src": "./img/front_icon.png",
             "description": "A skilled software engineer proficient in front-end technologies. Experienced in building responsive and user-friendly web applications. Passionate about solving complex problems and delivering high-quality code."
         },
         {
             "id": "2",
             "title": "Back-end",
-            "src": "./img/feather-pen-2.png",
+            "src": "./img/backen_icon.png",
             "description": "A proficient back-end developer with expertise in designing and implementing server-side logic and databases. Experienced in building scalable and efficient APIs. Dedicated to ensuring the performance and security of web applications."
         },
         {
             "id": "3",
             "title": "Full-stack",
-            "src": "./img/product-chain-1.png",
+            "src": "./img/full.png",
             "description": "A versatile full-stack developer proficient in both front-end and back-end technologies. Capable of designing and implementing end-to-end solutions. Skilled in collaborating with cross-functional teams to deliver successful projects."
         },
         {
             "id": "4",
             "title": "DevOps",
-            "src": "./img/tag-1.png",
+            "src": "./img/dev.png",
             "description": "An experienced DevOps engineer proficient in automating deployment pipelines and managing infrastructure as code. Skilled in implementing CI/CD practices and ensuring the reliability and scalability of cloud-based applications."
-        },
-        {
-            "id": "5",
-            "title": "Machine Learning",
-            "src": "./img/product-chain-1.png",
-            "description": "A machine learning engineer with expertise in developing and deploying predictive models and algorithms. Experienced in analyzing large datasets and implementing machine learning solutions to solve real-world problems."
         }
+    
     ]
 }
