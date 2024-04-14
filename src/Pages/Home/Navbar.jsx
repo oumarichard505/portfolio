@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect } from React;
+import { useState, useEffect } from "react";
 import {Link} from "react-scroll";
 
 function Navbar(){
@@ -16,10 +16,28 @@ function Navbar(){
     useEffect(()=>{
         const handleResize = ()=>{
             if(window.innerWidth <= 500) {closeMenu}
-        }
+        };
 
-        window.addEventListener("resize", handleResize)
-    })
+        window.addEventListener("resize", handleResize);
+
+        return() => {
+            window.removeEventListener("resize", handleResize)
+        };
+    }, [])
+
+    useEffect(()=>{
+        if(window.innerWidth <= 1200){
+            closeMenu
+        }
+    }, []);
+
+    return(
+        <nav className={`navbar ${navActive ? "active" : ""}`}>
+            <div>
+                <img src="./img/logo.png" alt="" />
+            </div>
+        </nav>
+    );
 
 }
 
