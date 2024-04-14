@@ -224,3 +224,11 @@ align-self: stretch;
 }
 
 /* Hero section style */
+
+/* logo */
+.navbar--logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
