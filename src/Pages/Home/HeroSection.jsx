@@ -13,15 +13,10 @@ function HeroSection(){
                         <br /> Developer
                      </h1>
                      <p>
-                        Lorem ipsum dolor sit amet consectetur<br/> adipisicing elit. Molestias,
-                         ab dignissimos sapiente culpa commodi vitae temporibus<br/> 
-                        quibusdam laboriosam, <br/>tempore voluptatibus dicta veniam accusamus
-                         facilis sed <br/>tempora aut modi ullam inventore.
-                        <br />
-                        Lorem ipsum dolor sit amet<br/> consectetur adipisicing elit.
-                         Qui et quia corporis vel <br/>esse molestias laborum velit deleniti 
-                         reiciendis odit quisquam<br/> recusandae, ad eum officia.
-                         <br/>Earum nemo aspernatur sit possimus!
+                     Meet a dynamic software engineer crafting elegant solutions to complex problems.
+                     With a passion for innovation, they excel in developing robust, scalable software systems <br />
+                     across various technologies. Thriving in collaborative environments, they leverage exceptional communication skills to 
+                     drive project success. Committed to continuous learning and excellence, they tackle challenges head-on, delivering exceptional results.
                      </p>
 
             </div>
