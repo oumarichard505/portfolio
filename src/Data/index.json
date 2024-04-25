@@ -29,23 +29,23 @@
     "portfolio": [
         {
           "id": "1",
-          "src": "./img/placeholder-image.png",
-          "title": "Ahuse",
+          "src": "./img/Trainers_page.png",
+          "title": "Homefit App",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
           "link": "View In Github"
         },
         {
           "id": "2",
-          "src": "./img/placeholder-image-1.png",
-          "title": "App Dashboard",
+          "src": "./img/Ac.png",
+          "title": "Activity Plus",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
           "link": "View In Github"
         },
         {
           "id": "3",
-          "src": "./img/placeholder-image-2.png",
-          "title": "Easy Rentn",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "src": "./img/hao_app.png",
+          "title": "Hao App",
+          "description": "Hao is a simple web app that solves this problem by allowing landlords' and landladies to gather, manipulate and store data for sound decision making and planning.",
           "link": "View In Github"
         }
       ],
